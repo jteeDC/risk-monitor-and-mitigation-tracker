@@ -16,6 +16,9 @@ This app provides a guided workflow for documenting risks across operational, cy
 
 It’s designed for teams operating under frameworks such as **ISO 27001, SOC 2, PCI‑DSS, GDPR, and cloud security programs**.
 
+![Risk intake screen](./screenshot-intake.png)
+![Risk assessment report](./screenshot-report.png)
+
 ---
 
 ## Key features
